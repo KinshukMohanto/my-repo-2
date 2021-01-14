@@ -84,6 +84,25 @@ footer {
   margin-top: 2%;
   margin-bottom: 200px;
 }
+@media only screen and (max-width: 600px) {
+  .half-widit {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 200px;
+    display: contents;
+  }
+  .half-widit img {
+    width: 80%;
+    margin-top: -10%;
+    margin-right: 60px;
+  }
+  .svg{
+    background-image: url("Logo\,\ Icon/XMLID 1.png")
+  }
+}
 .half-widit img {
   width: 100%;
   margin-top: -20%;
@@ -99,13 +118,9 @@ footer {
   font-weight: 200;
   font-family: "Roboto", sans-serif;
 }
-#title {
-  font-size: 70px;
+.last{
+  margin: 30px;
 }
-.shop-logo{
-    width: 30%;
-    float: left;
-}
-#part{
-    float: right;
+.h5, .p{
+  float: right;
 }
