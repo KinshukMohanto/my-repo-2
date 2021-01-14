@@ -1,0 +1,111 @@
+.container {
+  margin-bottom: 100px;
+}
+.orange-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #363958 0%, #343863 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat1 {
+  background-color: orange;
+}
+.cat2 {
+  background-color: orchid;
+}
+.cat3 {
+  background-color: blue;
+}
+.categories h1 {
+  color: white;
+}
+.categories img {
+  width: 100px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: gray;
+}
+footer {
+  text-align: center;
+}
+
+.Mylogo {
+  width: 50%;
+}
+.ti-text {
+  color: #363958;
+  font-family: "Bebas Neue", cursive;
+  font-size: 4em;
+}
+
+.my-card {
+  color: #363958;
+}
+
+.price {
+  color: #fa804c;
+  font-weight: 700;
+}
+.half-widit {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  margin-top: 2%;
+  margin-bottom: 200px;
+}
+.half-widit img {
+  width: 100%;
+  margin-top: -20%;
+  margin-right: 60px;
+}
+.link-button {
+  margin-top: 50px;
+  text-decoration: none;
+  padding: 10px 30px;
+  background-image: linear-gradient(45deg, #ff8063, #f46060);
+  border-radius: 10px;
+  color: white;
+  font-weight: 200;
+  font-family: "Roboto", sans-serif;
+}
+#title {
+  font-size: 70px;
+}
+.shop-logo{
+    width: 30%;
+    float: left;
+}
+#part{
+    float: right;
+}
